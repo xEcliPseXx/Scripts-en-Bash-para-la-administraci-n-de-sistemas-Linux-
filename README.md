@@ -1,1 +1,5 @@
 # Scripts-en-Bash-para-la-administraci-n-de-sistemas-Linux-
+
+Esta colección de scripts Bash está diseñada específicamente para optimizar las tareas de administración del sistema y gestión de usuarios en sistemas similares a Unix. Estos scripts tienen como objetivo automatizar diversos aspectos de la supervisión del sistema, el análisis del comportamiento de los usuarios y la gestión de la utilización de los recursos. Cada script cumple un propósito específico, lo que garantiza la eficiencia y seguridad del entorno del sistema.
+
+Los scripts incluidos abordan de manera efectiva necesidades operativas comunes, como la identificación y gestión de la actividad de los usuarios, la supervisión del uso de la red, la evaluación de la utilización del espacio en disco y el análisis de los patrones de inicio de sesión. Ofrecen opciones flexibles para recopilar información sobre los usuarios, sus procesos y sus actividades con los archivos, lo que proporciona a los administradores información valiosa para mantener la integridad y el rendimiento del sistema.
